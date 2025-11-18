@@ -1,0 +1,5 @@
+{
+  "name": "PsyQuotes",
+  "description": "A TikTok-style immersive experience for exploring profound psychological quotes and generating AI-powered video shorts using Gemini Veo.",
+  "requestFramePermissions": []
+}
